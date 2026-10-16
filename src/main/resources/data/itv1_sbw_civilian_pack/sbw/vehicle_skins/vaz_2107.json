@@ -1,0 +1,70 @@
+{
+  "Skins": [
+    {
+      "Id": "vanilla",
+      "Name": "White",
+      "Texture": "itv1_sbw_civilian_pack:textures/bedrock/vehicle/vaz_2107_white.png",
+      "Priority": 1
+    },
+    {
+      "Id": "black",
+      "Name": "Black",
+      "Texture": "itv1_sbw_civilian_pack:textures/bedrock/vehicle/vaz_2107_black.png",
+      "Priority": 2
+    },
+    {
+      "Id": "red",
+      "Name": "Red",
+      "Texture": "itv1_sbw_civilian_pack:textures/bedrock/vehicle/vaz_2107_red.png",
+      "Priority": 3
+    },
+    {
+      "Id": "grey",
+      "Name": "Grey",
+      "Texture": "itv1_sbw_civilian_pack:textures/bedrock/vehicle/vaz_2107_grey.png",
+      "Priority": 4
+    },
+    {
+      "Id": "darkgreen",
+      "Name": "Dark Green",
+      "Texture": "itv1_sbw_civilian_pack:textures/bedrock/vehicle/vaz_2107_darkgreen.png",
+      "Priority": 5
+    },
+    {
+      "Id": "yellow",
+      "Name": "Yellow",
+      "Texture": "itv1_sbw_civilian_pack:textures/bedrock/vehicle/vaz_2107_yellow.png",
+      "Priority": 6
+    },
+    {
+      "Id": "beige",
+      "Name": "Beige",
+      "Texture": "itv1_sbw_civilian_pack:textures/bedrock/vehicle/vaz_2107_beige.png",
+      "Priority": 7
+    },
+    {
+      "Id": "orange",
+      "Name": "Orange",
+      "Texture": "itv1_sbw_civilian_pack:textures/bedrock/vehicle/vaz_2107_orange.png",
+      "Priority": 8
+    },
+    {
+      "Id": "turquoise",
+      "Name": "Turquoise",
+      "Texture": "itv1_sbw_civilian_pack:textures/bedrock/vehicle/vaz_2107_turquoise.png",
+      "Priority": 9
+    },
+    {
+      "Id": "violet",
+      "Name": "Violet",
+      "Texture": "itv1_sbw_civilian_pack:textures/bedrock/vehicle/vaz_2107_violet.png",
+      "Priority": 10
+    },
+    {
+      "Id": "darkblue",
+      "Name": "Dark Blue",
+      "Texture": "itv1_sbw_civilian_pack:textures/bedrock/vehicle/vaz_2107_darkblue.png",
+      "Priority": 11
+    }
+  ]
+}

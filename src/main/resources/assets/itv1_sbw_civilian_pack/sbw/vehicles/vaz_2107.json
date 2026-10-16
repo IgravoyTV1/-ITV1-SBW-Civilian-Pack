@@ -1,0 +1,8 @@
+{
+  "Models": [
+    {
+      "Model": "itv1_sbw_civilian_pack:models/bedrock/vehicle/vaz_2107.geo.json",
+      "Texture": "itv1_sbw_civilian_pack:textures/bedrock/vehicle/vaz_2107_white.png"
+    }
+  ]
+}
